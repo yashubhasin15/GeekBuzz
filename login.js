@@ -21,7 +21,7 @@ function checkFormEntry()
 		return false;
 	}
 	
-    window.location.href=("home.html");
+    window.location.href=("index.html");
     return false;
 }
 
