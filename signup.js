@@ -30,7 +30,7 @@ function checkFormEntry()
         alert("Please accept the terms and conditions");
         return false;
     }
-    window.location.href=("home.html");
+    window.location.href=("index.html");
 	return false;
 }
 
